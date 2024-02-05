@@ -1,5 +1,5 @@
 COMANDOS GIT
-https://github.com/Grow7777/apuntes_2023_11_02.git
+
 -----------------------------------------------------------
 
 CUANDO INSTALAS POR PRIMERA VES EN TU PC
